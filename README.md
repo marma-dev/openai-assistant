@@ -59,6 +59,8 @@ The assistant will start listening to you. Chat away or say a command! (Psst! It
 
 ## Contribution & License Terms
 This is currently licensed under the terms of the MIT license. 
+
 Have a suggestion, or found a bug? Create an issue and we'll get on it!
+
 All contributions are welcome!
 
