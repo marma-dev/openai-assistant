@@ -21,15 +21,15 @@ git clone https://github.com/marma-dev/openai-assistant.git
 ## Requirements
 The following requirements should be present before running the assistant:  
 
-Python 3.7 or higher.
-OpenAI Python
-SoundDevice
-pyttsx3
-dotenv
-SciPy
-NumPy
+- Python 3.7 or higher.
+- OpenAI Python
+- SoundDevice
+- pyttsx3
+- dotenv
+- SciPy
+- NumPy
 
-Python can be installed from 
+Python can be installed from https://www.python.org/downloads
 
 Install the dependencies (preferably from the folder containing the repo) using the following command
 ```
