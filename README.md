@@ -15,7 +15,7 @@ OpenAI API keys are secret and SHOULD NOT be exposed or saved to the public doma
 First, clone this repository to your local machine using:
 
 ```
-git clone https://github.com/marma-dev/nanoassistant.git
+git clone https://github.com/marma-dev/openai-assistant.git
 ```
 
 ## Requirements
